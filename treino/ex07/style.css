@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2? family = Mate + SC & display = swap');
+
+body{
+    background-color: rgb(165, 165, 165);
+    font-family: Arial, Helvetica, sans-serif;
+    color: #2b413b;
+}
+
+main{
+    background-color: #D9E6E3;
+    width: 520px;
+    height: 650px;
+    margin: auto;
+    padding: 2em;
+    border-radius: 13px;
+    box-shadow: 3px 4px 12px #474b4a;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    font-family: 'Mate SC', serif;
+    font-size: 17px;
+    font-weight: 500;
+    text-align: justify;
+    color: #17221f;
+}
+
+div:hover{
+
+}
+
+li{
+    text
+}

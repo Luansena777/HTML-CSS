@@ -1,0 +1,32 @@
+body{
+    font: normal 16px arial, verdana, serif;
+    text-align: left;
+    background-color: #f1adb6b6;
+}
+
+main{
+    background-color: white;
+    box-shadow: 3px 4px 12px #92374D;
+    width: 520px;
+    height: 590px;
+    margin: auto;
+    padding: 2em;
+    border-radius: 13px;
+    
+}
+
+h1{
+    text-align: center;
+    color: #554042;
+}
+
+h2{
+    color: #554042;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    text-indent: 2em;
+    font-size: 17px;
+}
